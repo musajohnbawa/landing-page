@@ -21,7 +21,6 @@ nav {
     width: 30px;
     height: 30px;
     border-radius: 10px;
-    
 }
 
 .logo h2 {
@@ -32,8 +31,8 @@ line-height: 0.5;
 .logo h2 span {
     color: black;
     font-size: 15px;
-
 }
+
 ul {
     list-style: none;
     display: flex;
